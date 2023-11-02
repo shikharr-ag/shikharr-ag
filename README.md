@@ -1,6 +1,6 @@
 # Hello, geeks! 👋
 
-I am _Shikhar Agarwal_. I have strong technical professional with a Bachelor of Technology focused in Mechatronis and engineering from _Manipal Institute of Technology, Manipal_. I am an avid developer skilled in Dart, Java, Android Development, Full Stack Development and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops. I am also the Cadet Captain for the NCC Naval Wing of my College and have participated in streetplays with Ada Dramatics.
+I am _Shikhar Agarwal_. I have strong technical professional with a Bachelor of Technology focused in Mechatronics and engineering from _Manipal Institute of Technology, Manipal_. I am an avid developer skilled in Dart, Java, Android Development, Full Stack Development and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops. I am also the Cadet Captain for the NCC Naval Wing of my College and have participated in streetplays with Ada Dramatics.
 
 ### 😄 Pronouns
 He/Him
